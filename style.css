@@ -1,0 +1,27 @@
+.parent{
+    background-color: rgb(235, 177, 107);
+    height:70vh;
+    width:40%;
+    font-size:25px ;
+    text-align: center;
+    color:white;
+}
+
+.child{
+    background-color: blue;
+    width:30%;
+    height: 20vh;
+    position: absolute;
+    /* top:180px;
+    left:100px; */
+}
+
+.child1{
+    background-color:blueviolet;
+    width:30%;
+    height: 20vh;
+    position: relative;
+    /* top:180px;
+    left:100px; */
+}
+
